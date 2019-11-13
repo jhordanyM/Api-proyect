@@ -1,0 +1,17 @@
+[
+    {
+        "id": "001",
+        "title": "El truco final",
+        "manager": "Cristopher Nolan",
+        "year": "1986",
+        "actor": "Dicaprio" 
+    },
+    {
+        "id": "002",
+        "title": "Batardos sin gloria",
+        "manager": "Quentin tarantino",
+        "year": "1986",
+        "actor": "Brad Pitt",
+        "actorS": "Hans Landa" 
+    }
+]
